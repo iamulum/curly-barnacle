@@ -32,6 +32,8 @@
 $ yarn install
 ```
 
+**Note:** The libraries listed in the package.json file have been updated to their latest versions. Please make sure to install these updated libraries by running the `yarn install` command before running the code.
+
 ## Running the app
 
 ```bash
@@ -60,13 +62,13 @@ $ yarn run test:cov
 
 ## Support
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please read more here: https://docs.nestjs.com/support.
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- Author: [Kamil Myśliwiec](https://kamilmysliwiec.com)
+- Website: [https://nestjs.com](https://nestjs.com/)
+- Twitter: [@nestframework](https://twitter.com/nestframework)
 
 ## License
 
